@@ -80,7 +80,7 @@ class map:
         m.save(r'C:\xampp\htdocs\map\map.html')
         t.close()
 def monitor (live):
-        ip = '120.125.82.175'
+        ip = 'iiip'
         seconds_since_epoch = time.time()
         seconds_since_epoch = seconds_since_epoch * 1000000000
         seconds_since_epoch  = format(seconds_since_epoch , '.0f')
