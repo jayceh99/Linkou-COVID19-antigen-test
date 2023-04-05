@@ -12,7 +12,7 @@ class map:
         t = open(r'C:\xampp\htdocs\map\map.txt' , 'w')
         t.close()
     def csv (self):
-        file_path = (r'C:\xampp\htdocs\ogcsv.csv')
+        file_path = (r'C:\xampp\htdocs\data.csv')
         with open(file_path,'rt', encoding = 'utf-8') as csvfile:
             reader=csv.reader(csvfile)
             self.name = [row[1]  for row in reader]
