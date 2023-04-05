@@ -7,4 +7,6 @@
 CSV path C:\xampp\htdocs\
 
 html & txt path C:\xampp\htdocs\map
+
+主程式內monitor功能可移除
 *****
