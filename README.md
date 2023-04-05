@@ -5,4 +5,6 @@
 
 *****
 CSV path C:\xampp\htdocs\
+
+html & txt path C:\xampp\htdocs\map
 *****
